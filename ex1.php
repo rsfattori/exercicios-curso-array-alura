@@ -50,9 +50,7 @@ function processaProdutos(array $lista): array {
 
     print_r($produtosNomePreco);
     
-    // 4. Ordene alfabeticamente pelo nome
     
-    // Seu código aqui
     return [];
 }
 
